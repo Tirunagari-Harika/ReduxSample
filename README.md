@@ -1,0 +1,2 @@
+# ReduxSample
+Simple Redux
